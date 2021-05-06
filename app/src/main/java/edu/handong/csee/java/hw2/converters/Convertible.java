@@ -17,7 +17,7 @@ public interface Convertible {
     public double getConvertedValue();
 
     /**
-     * actual computaion!
+     * actual computation!
      */
     public void convert();
      
