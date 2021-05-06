@@ -3,7 +3,7 @@ package edu.handong.csee.java.hw2.converters;
  * print all converter's results(only KM, TON).
  * km -> m, mile.
  * ton -> kg, g.
- * @author Myunghun Ahn 
+ * @author Myunghun Ahn~~~
  */
 public class AllConverter {
     private double value; 
