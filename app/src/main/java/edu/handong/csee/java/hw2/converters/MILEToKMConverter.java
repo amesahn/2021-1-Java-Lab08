@@ -2,7 +2,7 @@ package edu.handong.csee.java.hw2.converters;
 
 /**
  * MILE -> KM
- * @author Myunghun Ahn
+ * @author Myunghun Ahn!!
  */
 public class MILEToKMConverter implements Convertible {
 
